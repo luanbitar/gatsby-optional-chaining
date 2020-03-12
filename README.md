@@ -19,6 +19,8 @@ Add the plugin to your `gatsby-config.js`.
 
 ```js
 module.exports = {
-  plugins: [`gatsby-optional-chaining`]
-};
+  plugins: [
+    `gatsby-optional-chaining`,
+  ]
+}
 ```
