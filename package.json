@@ -1,6 +1,6 @@
 {
   "name": "gatsby-optional-chaining",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provide optional-chaining plugin on gatsby",
   "main": "index.js",
   "repository": {
