@@ -1,4 +1,4 @@
-exports.onCreateBabelConfig = function({ actions, reporter }) {
+exports.onCreateBabelConfig = ({ actions, reporter }) => {
   actions.setBabelPlugin({
     name: require.resolve("@babel/plugin-proposal-optional-chaining")
   })
