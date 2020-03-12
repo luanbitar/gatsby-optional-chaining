@@ -1,6 +1,6 @@
 {
   "name": "gatsby-optional-chaining",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide optional-chaining plugin on gatsby",
   "main": "index.js",
   "repository": {
@@ -11,7 +11,9 @@
     "optional",
     "chaining",
     "babel",
-    "plugin"
+    "plugin",
+    "gatsby",
+    "gatsby-plugin"
   ],
   "author": "Luan Bitar <7@lbitar.com>",
   "license": "ISC",
